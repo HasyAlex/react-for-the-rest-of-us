@@ -1,0 +1,6 @@
+
+*State Management
+    >Old way => Pass State int to Component down to, Component down to, Component 
+    >State Management 
+        >Redux (3ed party tool)
+        >Context (Newly added to react)

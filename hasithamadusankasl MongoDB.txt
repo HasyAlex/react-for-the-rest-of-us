@@ -1,0 +1,6 @@
+
+hasithamadusankasl
+uRYgKqoOFxas6mRx
+
+mongodb+srv://hasithamadusankasl:uRYgKqoOFxas6mRx@cluster0.d5d78jr.mongodb.net/test
+mongodb+srv://hasithamadusankasl:uRYgKqoOFxas6mRx@cluster0.d5d78jr.mongodb.net/ReactCourse
