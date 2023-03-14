@@ -5,6 +5,4 @@
         =>Redux (3ed party tool)
         =>Context (Newly added to react)
 
-*Use Reducer (Nother way of working with state in react/useReducer is an alternative to useState)
-    =>Use Reducer is more impotant when you have complex state logic
-    =>useReducer(//Reducer Function(Logic), //initialState) // Dispach Action(How it's gonna done?)
+
